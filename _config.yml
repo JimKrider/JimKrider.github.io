@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-#highlighter: null
+highlighter: pygments
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
