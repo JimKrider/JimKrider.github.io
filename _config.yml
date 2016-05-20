@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://JimKrider.github.io/
-baseurl: 
+url: http://127.0.0.1:3000 
+baseurl:  http://127.0.0.1:3000 
 title: Jim Krider
 author: Jim Krider
 description: Personal blog and resume
@@ -26,6 +26,6 @@ linkedin: jameskrider
 #disqus: username
 #google_analytics: UA-69391421-1
 
-
+#http://JimKrider.github.io/
 # needed for travis-ci build
 exclude: [vendor]
