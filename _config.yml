@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://127.0.0.1:3000 
-baseurl:  http://127.0.0.1:3000 
+url: http://JimKrider.github.io/
+baseurl:  /
 title: Jim Krider
 author: Jim Krider
 description: Personal blog and resume
